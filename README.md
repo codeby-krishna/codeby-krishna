@@ -1,4 +1,3 @@
-
 # Hi, I'm Krishna Yadav 👋
 
 ### Python Full Stack Developer | B.Tech CSE Student
@@ -30,6 +29,7 @@ A Django-based food redistribution platform that connects food donors, NGOs and 
 
 - **GitHub:** [codeby-krishna](https://github.com/codeby-krishna)
 
+- **LinkedIn:** [Krishna Yadav](https://www.linkedin.com/in/krishna-yadav-143808328/)
 ---
 
 ⭐ Thanks for visiting my profile!
